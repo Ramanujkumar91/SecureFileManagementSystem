@@ -1,0 +1,3 @@
+happy report.txt rw
+ramanuj notes.txt r
+abhishar log.txt w
